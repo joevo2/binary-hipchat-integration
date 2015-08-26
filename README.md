@@ -1,0 +1,1 @@
+Please write a program (in the language of your choice) that sends a message to a Hipchat room whenever the USD/JPY exchange rate rises by more than 0.5% in any 10-minute period. Please retrieve the live market data from the Binary.com Websockets API (https://www.binary.com/partnerapi)
